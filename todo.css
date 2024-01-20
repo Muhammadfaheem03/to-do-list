@@ -1,0 +1,38 @@
+body{
+    /* background: aqua; */
+}
+
+.container{
+    width: 380px;
+    height: 150px;
+margin-left: 33%;
+padding-top: 23px;
+text-align: center;
+/* margin-top: 5px; */
+background: white;
+}
+
+input{
+    width: 270px;
+    padding: 8px;
+    border: 2px solid crimson;
+    outline: none;
+    font-size: 18px;
+    font-family: cursive;
+}
+
+button{
+    width: 60px;
+    height: 40px;
+    border-radius: 5px;
+    background: rgb(82, 185, 185);
+    color: aliceblue;
+    border: 2px solid rgb(1, 39, 39);
+    outline: none;
+    font-size: 18px;
+    font-family: cursive;
+
+}
+text{
+text-align: left;
+}
